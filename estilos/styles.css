@@ -165,7 +165,7 @@ body{
     margin-top: 1em;
 }
 
-@media screen and (max-width: 768px) { /*responsividade*/
+@media screen and (max-width: 768px) {
     .container {
         display: block; 
         background-image: none;
